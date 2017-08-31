@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+
+
+.main
+{
+	width: 500px;
+	height: 400px;
+	margin-left: 300px;
+	margin-top: 50px;
+	text-align: center;
+	border:1px solid;
+	
+}
+
+.con
+{
+	width: 500px;
+	height: 100px;
+	margin-left:0px;
+	margin-top: 0px;
+	float: left;
+}
+
+.state
+{
+	width: 245px;
+	height: 100px;
+	margin-left: 0px;
+	margin-top: 0px;
+	float: left;
+}
+.dist
+{
+	width: 245px;
+	height: 100px;
+	margin-left: 0px;
+	margin-top: 0px;
+	float: left;
+}
